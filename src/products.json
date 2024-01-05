@@ -1,0 +1,127 @@
+{
+    "products": [
+      {
+        "id": "1",
+        "name": "Samsung s23 ultra",
+        "price": "$100",
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/2/s/7/-original-imagmg6gktts6sfy.jpeg?q=70"
+      },
+      {
+        "id": "2",
+        "name": "Samsung Galaxy Z flip",
+        "price": "$400",
+        "image": "https://rukminim2.flixcart.com/image/416/416/ksnjp8w0/mobile/w/u/8/galaxy-z-flip3-5g-sm-f711bzeeinu-samsung-original-imag662adrayy6cg.jpeg?q=70"
+      },
+      {
+        "id": "3",
+        "name": "Apple iphone 14",
+        "price": "$300",
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/m/o/b/-original-imaghx9qkugtbfrn.jpeg?q=70"
+      },
+      {
+        "id": "4",
+        "name": "Apple iphone 15",
+        "price": "$350",
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/k/l/l/-original-imagtc5fz9spysyk.jpeg?q=70"
+      },
+      {
+        "id": "5",
+        "name": "Apple iphone 15 pro max",
+        "price": "$500",
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/m/h/c/-original-imagtc3h9h6kpbkc.jpeg?q=70"
+      },
+      {
+        "id": "6",
+        "name": "Apple iphone 14 pro max",
+        "price": "$400",
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/k/s/t/-original-imaghxengzjc2djt.jpeg?q=70"
+      },
+      {
+        "id": "7",
+        "name": "Apple watch",
+        "price": "$100",
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/smartwatch/c/1/i/-original-imaghxg9znekcjhh.jpeg?q=70"
+      },
+      {
+        "id": "8",
+        "name": "Samsung Watch 4",
+        "price": "$100",
+        "image": "https://rukminim2.flixcart.com/image/416/416/kst9gnk0/smartwatch/j/k/9/1-4-android-sm-r875fzgainu-samsung-yes-original-imag6axcsyt36y8v.jpeg?q=70"
+      },
+      {
+        "id": "9",
+        "name": "Sarees",
+        "price": "$5",
+        "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/sari/n/l/a/free-37995-mirchi-fashion-unstitched-original-imagu6yehdj6rxeq.jpeg?q=70"
+      },
+      {
+        "id": "10",
+        "name": "Shirts",
+        "price": "$10",
+        "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/m/z/2/l-p-s-green-shirts-l-soundryafabric-original-imagkfkugxs2fghn.jpeg?q=70"
+      },
+      {
+        "id": "11",
+        "name": "Shirts",
+        "price": "$10",
+        "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/h/r/u/xl-p-s-black-shirts-xl-soundryafabric-original-imagkfku24y4vhn2.jpeg?q=70"
+      },
+      {
+        "id": "12",
+        "name": "pillows",
+        "price": "$7",
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/pillow/s/n/e/15-blue-combo-a920-7-bluline-combo-a920-kvastra-original-imagscfbht4p4zyh.jpeg?q=70"
+      },
+      {
+        "id": "13",
+        "name": "Pillows",
+        "price": "$15",
+        "image": "https://rukminim2.flixcart.com/image/416/416/l5h2xe80/pillow/p/x/j/43-pregnancy-pillow-1-kpplnew105-jaga-home-decor-original-imagg4zfc7rmpph4.jpeg?q=70"
+      },
+      {
+        "id": "14",
+        "name": "Table",
+        "price": "$50",
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/table-cover/b/w/c/leaf-design-cotton-6-seater-dining-table-cover-60-x90-maroon-6-original-imagsgnb3hz9vnjm.jpeg?q=70"
+      },
+      {
+        "id": "15",
+        "name": "books",
+        "price": "$1",
+        "image": "https://rukminim2.flixcart.com/image/416/416/kqidx8w0/book/j/l/o/you-can-original-imag4g8e7yfgkhxq.jpeg?q=70"
+      },
+      {
+        "id": "16",
+        "name": "books",
+        "price": "$2",
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/regionalbooks/9/h/o/karma-original-imagtt638fju5byb.jpeg?q=70"
+      },
+      {
+        "id": "17",
+        "name": "book",
+        "price": "$1",
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/book/l/s/f/the-psychology-of-money-paperback-original-imagrufezxvgkezq.jpeg?q=70"
+      },
+      {
+        "id": "18",
+        "name": " TV Samsung",
+        "price": "$400",
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/television/x/r/n/-original-imagttjpgtshmnms.jpeg?q=70"
+      },
+      {
+        "id": "19",
+        "name": "Ball",
+        "price": "$10",
+        "image": "https://rukminim2.flixcart.com/image/416/416/kfsl18w0/ball/e/r/q/140-160-standard-7-2-ball-white-2-na-cricket-leather-ball-ssi-original-imafw6cy3wzfqsvk.jpeg?q=70"
+      },
+      {
+        "id": "20",
+        "name": "Bat",
+        "price": "$100",
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/bat/o/c/i/850-the-original-slog-full-size-ideal-for-15-hard-plastic-for-original-imagmwqhpczcah9s.jpeg?q=70"
+      }
+
+     
+    ]
+  }
+  
