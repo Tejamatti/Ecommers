@@ -168,7 +168,7 @@ const Header = () => {
             value={searchTerm}
             onChange={handleSearch}
           />
-          <button onClick={clearSearch}>Clear</button>
+          <button onClick={clearSearch}>Search</button>
         </SearchBar>
         <Navigation>
           <ul>
